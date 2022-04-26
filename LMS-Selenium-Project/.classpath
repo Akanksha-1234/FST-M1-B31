@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src/test/resource"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/J2SE-1.5">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="F:/JAVA/FST_Selenium/3.141.5/3.141.5/cucumber/cucumber-core-1.2.5.jar"/>
+	<classpathentry kind="lib" path="F:/JAVA/FST_Selenium/3.141.5/3.141.5/cucumber/cucumber-html-0.2.3.jar"/>
+	<classpathentry kind="lib" path="F:/JAVA/FST_Selenium/3.141.5/3.141.5/cucumber/cucumber-java-1.2.5.jar"/>
+	<classpathentry kind="lib" path="F:/JAVA/FST_Selenium/3.141.5/3.141.5/cucumber/cucumber-junit-1.2.5.jar"/>
+	<classpathentry kind="lib" path="F:/JAVA/FST_Selenium/3.141.5/3.141.5/cucumber/cucumber-jvm-deps-1.0.5.jar"/>
+	<classpathentry kind="lib" path="F:/JAVA/FST_Selenium/3.141.5/3.141.5/cucumber/gherkin-2.12.2.jar"/>
+	<classpathentry kind="lib" path="F:/JAVA/FST_Selenium/3.141.5/3.141.5/cucumber/gherkin-jvm-deps-1.0.3.jar"/>
+	<classpathentry kind="lib" path="F:/JAVA/FST_Selenium/3.141.5/3.141.5/junit/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="F:/JAVA/FST_Selenium/3.141.5/3.141.5/junit/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="F:/JAVA/FST_Selenium/3.141.5/3.141.5/selenium/client-combined-3.141.5.jar"/>
+	<classpathentry kind="lib" path="F:/JAVA/FST_Selenium/3.141.5/3.141.5/selenium/client-combined-3.141.5-sources.jar"/>
+	<classpathentry kind="lib" path="F:/JAVA/FST_Selenium/3.141.5/3.141.5/selenium/selenium-java-4.0.0-alpha-1.jar"/>
+	<classpathentry kind="lib" path="F:/JAVA/FST_Selenium/3.141.5/3.141.5/selenium/libs/byte-buddy-1.8.15.jar"/>
+	<classpathentry kind="lib" path="F:/JAVA/FST_Selenium/3.141.5/3.141.5/selenium/libs/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="F:/JAVA/FST_Selenium/3.141.5/3.141.5/selenium/libs/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="F:/JAVA/FST_Selenium/3.141.5/3.141.5/selenium/libs/commons-io-2.4.jar"/>
+	<classpathentry kind="lib" path="F:/JAVA/FST_Selenium/3.141.5/3.141.5/selenium/libs/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="F:/JAVA/FST_Selenium/3.141.5/3.141.5/selenium/libs/guava-25.0-jre.jar"/>
+	<classpathentry kind="lib" path="F:/JAVA/FST_Selenium/3.141.5/3.141.5/selenium/libs/httpclient-4.5.5.jar"/>
+	<classpathentry kind="lib" path="F:/JAVA/FST_Selenium/3.141.5/3.141.5/selenium/libs/httpcore-4.4.9.jar"/>
+	<classpathentry kind="lib" path="F:/JAVA/FST_Selenium/3.141.5/3.141.5/selenium/libs/okhttp-3.11.0.jar"/>
+	<classpathentry kind="lib" path="F:/JAVA/FST_Selenium/3.141.5/3.141.5/selenium/libs/okio-1.14.0.jar"/>
+	<classpathentry kind="lib" path="F:/JAVA/FST_Selenium/3.141.5/3.141.5/testng/testng-6.8.5.jar"/>
+	<classpathentry kind="lib" path="F:/JAVA/FST_Selenium/3.141.5/3.141.5/log4j/log4j-1.2.17.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
